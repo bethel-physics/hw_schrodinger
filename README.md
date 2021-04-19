@@ -4,7 +4,7 @@ Homework for Garcia Ch. 9, implicit schemes for Schrodinger equation
 <div>
   
 *   [Problem 1 (in-class)](#2)
-*   [Problem 2 (homework)](#3)
+
 
 </div>
 
@@ -16,6 +16,3 @@ Your final 2D plot of several probability steps should look something like this 
 
 ![Problem 1](Schrodinger_probs.png)
 
-## Problem 2 (homework)<a name="3"></a>
-
-No homework here!! Work on your project
